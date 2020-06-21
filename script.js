@@ -2,8 +2,8 @@ $(document).ready(function(){
 
     $('#sample_goal').goalProgress({
         goalAmount: 100,
-        currentAmount: 20,
-        textBefore: 'Lukewarm Girl Summer: ',
+        currentAmount: 25,
+        textBefore: 'Balmy Girl Summer: ',
         textAfter: '°'
     });
     $(function() {
